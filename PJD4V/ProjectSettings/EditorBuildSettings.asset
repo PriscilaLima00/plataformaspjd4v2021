@@ -26,5 +26,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelPriscila2.unity
     guid: 2a183ab43aae90444b5cb2a83c5dd3e9
+  - enabled: 1
+    path: Assets/Scenes/LevelPriscila02.unity
+    guid: 8050f372bc14bb043833f91fbbdb00b5
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 53f0b03dc564347eb8aa6895194b7498, type: 2}
